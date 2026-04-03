@@ -9,7 +9,7 @@
 
     <!-- Left Pane: Picture + Full Name -->
     <td width="25%" bgcolor="#4CAF50" valign="top" align="center">
-      <img src="Anil Giri_photograph.jpg" alt="Anil Giri Photo" width="150" height="150"><br><br>
+      <img src="Anil Giri_photograph.jpg" alt="Anil Giri Photo" style="width:150px; height:150px; border-radius:50%; margin-top:20px;"><br><br>
       <h2 style="color:white;">ANIL CHNDRASHEKHAR GIRI</h2>
     </td>
 
